@@ -1,0 +1,14 @@
+Z:\9-2005\9-2005\bin\Debug\9-2005.exe.config
+Z:\9-2005\9-2005\bin\Debug\9-2005.exe
+Z:\9-2005\9-2005\bin\Debug\9-2005.pdb
+Z:\9-2005\9-2005\obj\Debug\9-2005.csproj.AssemblyReference.cache
+Z:\9-2005\9-2005\obj\Debug\9-2005.csproj.CoreCompileInputs.cache
+Z:\9-2005\9-2005\obj\Debug\9-2005.exe
+Z:\9-2005\9-2005\obj\Debug\9-2005.pdb
+D:\9-2005\9-2005\bin\Debug\9-2005.exe.config
+D:\9-2005\9-2005\bin\Debug\9-2005.exe
+D:\9-2005\9-2005\bin\Debug\9-2005.pdb
+D:\9-2005\9-2005\obj\Debug\9-2005.csproj.AssemblyReference.cache
+D:\9-2005\9-2005\obj\Debug\9-2005.csproj.CoreCompileInputs.cache
+D:\9-2005\9-2005\obj\Debug\9-2005.exe
+D:\9-2005\9-2005\obj\Debug\9-2005.pdb

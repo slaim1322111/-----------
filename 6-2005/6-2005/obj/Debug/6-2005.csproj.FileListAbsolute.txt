@@ -1,0 +1,7 @@
+Z:\6-2005\6-2005\obj\Debug\6-2005.csproj.AssemblyReference.cache
+Z:\6-2005\6-2005\obj\Debug\6-2005.csproj.CoreCompileInputs.cache
+Z:\6-2005\6-2005\bin\Debug\6-2005.exe.config
+Z:\6-2005\6-2005\bin\Debug\6-2005.exe
+Z:\6-2005\6-2005\bin\Debug\6-2005.pdb
+Z:\6-2005\6-2005\obj\Debug\6-2005.exe
+Z:\6-2005\6-2005\obj\Debug\6-2005.pdb
