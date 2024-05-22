@@ -1,0 +1,14 @@
+Z:\Свойства\Свойства\bin\Debug\Свойства.exe.config
+Z:\Свойства\Свойства\bin\Debug\Свойства.exe
+Z:\Свойства\Свойства\bin\Debug\Свойства.pdb
+Z:\Свойства\Свойства\obj\Debug\Свойства.csproj.AssemblyReference.cache
+Z:\Свойства\Свойства\obj\Debug\Свойства.csproj.CoreCompileInputs.cache
+Z:\Свойства\Свойства\obj\Debug\Свойства.exe
+Z:\Свойства\Свойства\obj\Debug\Свойства.pdb
+D:\Свойства\Свойства\bin\Debug\Свойства.exe.config
+D:\Свойства\Свойства\bin\Debug\Свойства.exe
+D:\Свойства\Свойства\bin\Debug\Свойства.pdb
+D:\Свойства\Свойства\obj\Debug\Свойства.csproj.AssemblyReference.cache
+D:\Свойства\Свойства\obj\Debug\Свойства.csproj.CoreCompileInputs.cache
+D:\Свойства\Свойства\obj\Debug\Свойства.exe
+D:\Свойства\Свойства\obj\Debug\Свойства.pdb

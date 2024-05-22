@@ -1,0 +1,6 @@
+John Smith 2000-03-15
+Alice Johnson 2001-05-20
+Robert Brown 2000-08-10
+Emily Roberts 1999-01-25
+Иван Иванов 1999-11-30
+Emily james 1999-20-25
